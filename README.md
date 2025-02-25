@@ -1,0 +1,1 @@
+This is an interactive drum project that allows users to play different drum sounds by clicking on drum elements or pressing corresponding keys on the keyboard. The project is built using HTML, CSS, and JavaScript and utilizes various event listeners to provide a dynamic and engaging user experience.
